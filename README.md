@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Saeed Mosaffer
+### Hi there 👋, I'm Saeed Mosaffer
 #### I am a computer scientist specializing in cyber security.
 
 Experienced computer scientist knowledgeable in full-stack software development, seeking a role to further grow and learn from seasoned team members while leveraging my successful execution of various projects.
