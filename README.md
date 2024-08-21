@@ -1,5 +1,5 @@
 ![github-user-contribution](https://github.com/user-attachments/assets/ff8916b6-00ee-4d70-907d-775868030f30)
-![](https://raw.githubusercontent.com/saeedmosaffer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![github-user-contribution](https://raw.githubusercontent.com/saeedmosaffer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/saeedmosaffer/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/saeedmosaffer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/saeedmosaffer/github-stats/master/generated/languages.svg#gh-light-mode-only)
